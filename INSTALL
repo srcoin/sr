@@ -1,0 +1,5 @@
+Building srcoin
+
+See doc/build-*.md for instructions on building srcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of srcoin.
